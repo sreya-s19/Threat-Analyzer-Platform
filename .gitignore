@@ -1,0 +1,16 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Database file (optional but recommended)
+# Don't upload the database itself, just the code to create it.
+*.db
+*.db-journal
+
+# IDE files
+.vscode/
+.idea/
