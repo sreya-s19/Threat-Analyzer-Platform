@@ -2,12 +2,11 @@
 
 An integrated, multi-page application for real-time cybersecurity threat detection and interactive intelligence dashboarding. Built with Python, Streamlit, Pandas, and spaCy.
 
- 
-![Alt Text](https://imgur.com/6jr251O)
+![alt text](https://imgur.com/6jr251O)
 
-![Alt Text](https://imgur.com/Z3qwbq0)
+![alt text](https://imgur.com/Z3qwbq0)
 
-![Alt Text](https://imgur.com/f8WtBaO)
+![alt text](https://imgur.com/f8WtBaO)
 
 ---
 
